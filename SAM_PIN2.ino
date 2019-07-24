@@ -171,7 +171,13 @@ void setup() {
      }
 
      */
- 
+  */
+     
+   /* przydałoby się wykonywać funkcje po przesłaniu na serial polecenia "home"
+    *  Nastęnie po przesłaniu po serialu "feedadd" maszyna zczytuje ilosc map bitowych na karcie pamieci i zjerzdza tyle warstw w dół
+    *  na serialu "start" feed wyjerzdza o warstwę print obniża o warstwę riko(y i y2) jadą nad przesyp i cofa się (Y i Y2) nad pole robocze
+
+     */
      
 
       
